@@ -1,4 +1,4 @@
-**A very cool yolo v3 algorithm implementation from heartkilla**
+**A very cool yolo v3 algorithm implementation from @heartkilla**
 
 **Tested using my own video taken at the bus stop outside below**
 
