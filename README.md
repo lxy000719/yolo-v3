@@ -1,7 +1,9 @@
 **A very cool yolo v3 algorithm implementation from @heartkilla**
 
 TensorFlow version: 1.13.1
+
 OpenCV version: 4.4.0
+
 Python version: 3.7.4
 
 
